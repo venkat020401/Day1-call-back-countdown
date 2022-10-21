@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, rgb(244, 224, 185),rgb(251, 220, 158),rgb(243, 205, 129),rgb(255, 214, 133));
+}
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+}
+p{
+    font-size:65px;
+    text-shadow: 2px 2px 4px rgb(87, 87, 87);
+    color:rgb(40, 40, 40)
+}
